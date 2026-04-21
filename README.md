@@ -40,3 +40,4 @@
 I don’t just code — I build my future 🔥
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=Devank-2001&show_icons=true&theme=tokyonight)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Devank-2001&layout=compact&theme=tokyonight)
