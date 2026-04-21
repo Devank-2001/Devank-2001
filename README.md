@@ -1,16 +1,40 @@
-## Hi there 👋
+# Hey 👋 I'm Devank
 
-<!--
-**Devank-2001/Devank-2001** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+💻 Java & Web Developer in Progress  
+🚀 Building real-world projects and improving every day  
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🔥 Projects
+- 🛒 E-commerce Project  
+  → Full-stack app with product listing, cart & backend APIs  
+
+- ⚛️ React Practice  
+  → Hands-on UI components and form handling   
+
+---
+
+## 🧠 Skills
+
+**Frontend**
+- React, HTML, CSS  
+
+**Backend**
+- Node.js, Express.js  
+
+**Database**
+- MongoDB  
+
+**Tools**
+- Git, GitHub, Postman  
+
+---
+
+## 📈 Current Mission
+- 100 Days of Code  
+- Becoming an industry-ready developer  
+
+---
+
+## ⚡ Fun Fact
+I don’t just code — I build my future 🔥
