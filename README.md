@@ -13,6 +13,8 @@
   → Hands-on UI components and form handling   
 
 ---
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=Devank-2001&show_icons=true&theme=tokyonight)
+
 
 ## 🧠 Skills
 
