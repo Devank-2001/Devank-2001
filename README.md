@@ -23,7 +23,7 @@
 - Node.js, Express.js  
 
 **Database**
-- MongoDB  
+- MongoD  
 
 **Tools**
 - Git, GitHub, Postman  
