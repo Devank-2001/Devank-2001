@@ -6,7 +6,7 @@
 ---
 
 ## 🔥 Projects
-- 🛒 E-commerce Projec  
+- 🛒 E-commerce Project  
   → Full-stack app with product listing, cart & backend APIs  
 
 - ⚛️ React Practice  
