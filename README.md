@@ -32,7 +32,7 @@
 
 ## 📈 Current Mission
 - 100 Days of Code  
-- Becoming an industry-ready developer  
+- Becoming an industry-ready develope  
 
 ---
 
