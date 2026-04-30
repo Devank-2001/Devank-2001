@@ -1,4 +1,4 @@
-# Hey 👋 I'm Devank
+# Hey 👋 I'm Devan
 
 💻 Java & Web Developer in Progress  
 🚀 Building real-world projects and improving every day  
