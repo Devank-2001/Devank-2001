@@ -1,4 +1,4 @@
-<h1 align="center">Hey 👋 I'm De</h1>
+<h1 align="center">Hey 👋 I'm Devank</h1>
 
 <h3 align="center">🚀 Full Stack Developer in Progress</h3>
 
@@ -50,16 +50,6 @@ Building scalable web applications and improving every day 💻
 - 📱 Responsive frontend practice
 
 🔗 Code: https://github.com/Devank-2001/legendary-tech-master-journey
-
----
-
-# 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Devank-2001&show_icons=true&theme=tokyonight&hide_border=true&cache_seconds=1800" />
-
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Devank-2001&layout=compact&theme=tokyonight&hide_border=true&cache_seconds=1800" />
-</p>
 
 ---
 
